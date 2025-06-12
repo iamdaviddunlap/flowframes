@@ -36,6 +36,7 @@ Build/WebInstaller
 
 # NMKD Python Redist Pkg
 [Pp]y*/
+!PythonCustomScripts/
 
 
 # Visual Studio 2015/2017 cache/options directory
